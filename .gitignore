@@ -7,5 +7,20 @@ cabal-dev
 *.chi
 *.chs.h
 .virthualenv
+.cabal-sandbox
+cabal.sandbox.config
+### https://raw.github.com/github/gitignore/master/haskell.gitignore
+
+dist
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+.virthualenv
+.hsenv
+.cabal-sandbox/
+cabal.sandbox.config
+cabal.config
 
 
