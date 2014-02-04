@@ -1,0 +1,11 @@
+### https://raw.github.com/github/gitignore/master/haskell.gitignore
+
+dist
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+.virthualenv
+
+
